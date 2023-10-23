@@ -1,7 +1,7 @@
 # USER MANAGEMENT SYSTEM
 
 **Name: Pankaj Kalra, Batch: FS-11**
-[GITHUB]()
+[GITHUB](https://github.com/Pankaj-dev98/restaurant-management-service-geekster)
 
 ## Frameworks and languages used
 - Source code: Java 21
@@ -16,7 +16,7 @@
 - When a user signs up, his information is verified and persisted in the database.
 - When a user signs in, he is assigned a unique token which must be passed to access the API.
 
-- Source code is available at: [GITHUB]()
+- Source code is available at: [GITHUB](https://github.com/Pankaj-dev98/restaurant-management-service-geekster)
 
 - Database design: Project uses a local relational MySql database with all required fields and constraints.
 
